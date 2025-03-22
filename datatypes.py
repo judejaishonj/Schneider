@@ -1,0 +1,6 @@
+print(type(10))
+print(type("Moolya"))
+print(type(True))
+print(type(10.4))
+print(type([1,2,3,[11,12]]))
+print(type({"name":"Jude"}))
